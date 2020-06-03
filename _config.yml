@@ -21,7 +21,7 @@ markdown: kramdown
 
 JB :
   version : 0.3.0
-  BASE_PATH : https://nchrein.github.io
+  BASE_PATH : ''
 
   archive_path: nil
   categories_path : nil
