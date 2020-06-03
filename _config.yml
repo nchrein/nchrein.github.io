@@ -11,9 +11,9 @@ highlighter: rouge
 title : Noah Chrein
 author :
   name : Noah Chrein
-  github : nopounch
+  github : nchrein
 
-production_url : https://nopounch.github.io
+production_url : https://nchrein.github.io
 
 
 markdown: kramdown
@@ -21,7 +21,7 @@ markdown: kramdown
 
 JB :
   version : 0.3.0
-  BASE_PATH : https://nopounch.github.io
+  BASE_PATH : https://nchrein.github.io
 
   archive_path: nil
   categories_path : nil
