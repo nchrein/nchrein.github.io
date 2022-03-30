@@ -7,7 +7,7 @@ Where : [New York Category Theory Seminar](http://www.sci.brooklyn.cuny.edu/~nos
 Title: Yoneda Ontologies [slides](..\assets\docs\NYCT_talk_2020.pdf)  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y5RMJ_fSGGc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Where : [UMD Applied Category Theory Seminar](mdcats.github.io)  
+Where : [UMD Applied Category Theory Seminar](https://mdcats.github.io)  
 Title : Reasoning with Hierarchical Ontologies  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_CPAJn49oQk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
